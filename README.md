@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @PenglerTaha
 - 👀 I’m interested in Tech and Autamatisation
 - 🌱 I’m currently learning Python
-- 📫 How to reach me  on my persone num +212 643517586
+- 📫 How to reach me :  +212 643517586
 - ⚡ Fun fact: this seems fun :)
 - 💞️ i would appreciate any help or advice
 
