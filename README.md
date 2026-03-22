@@ -3,10 +3,10 @@
 I am an Industrial Engineering student passionate about the intersection of systems optimization and software development. I enjoy breaking down complex problems and building efficient, programmatic solutions—whether that means optimizing an industrial process or engineering a custom, bit-perfect data serialization pipeline. 
 
 -  **Currently working on:** Building unconventional data architectures (like my Lossless Data-to-Video Encoder).
--  **Deepening my skills in:** Advanced Python, low-level data manipulation (byte streams, cryptography), and scalable automation.
--  **My philosophy:** Apply the rigor of industrial engineering to software architecture.
--  **Ask me about:** Python scripting, algorithmic problem-solving, or how to hide a PDF inside an MKV video!
--  **How to reach me:** You can reach me at **+212 643517586** (WhatsApp preferred) or connect with me on LinkedIn.
+-  **Deepening my skills in:** Advanced Python, low-level data manipulation (byte streams, Steganographie), and scalable automation.
+-  **My motto:** if you want to win the lottery you have to make the money to buy a ticket.
+-  **Ask me about:** Python scripting, algorithmic problem-solving, Lean management, amélioration continue, 5S, Kanban, PDCA!
+-  **How to reach me:** You can reach me at **+212 643517586** (WhatsApp preferred) or email tahaait25@gmail.com.
 
 ---
 
