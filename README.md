@@ -1,21 +1,53 @@
-### Hi there 👋, I'm Taha (@PenglerTaha)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=penglertaha.penglertaha" />
 
-I am an Industrial Engineering student passionate about the intersection of systems optimization and software development. I enjoy breaking down complex problems and building efficient, programmatic solutions—whether that means optimizing an industrial process or engineering a custom, bit-perfect data serialization pipeline. 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pengler+Taha!;" />
+</h1>
 
--  **Currently working on:** Building unconventional data architectures (like my Lossless Data-to-Video Encoder).
--  **Deepening my skills in:** Advanced Python, low-level data manipulation (byte streams, Steganographie), and scalable automation.
--  **My motto:** if you want to win the lottery you have to make the money to buy a ticket.
--  **Ask me about:** Python scripting, algorithmic problem-solving, Lean management, amélioration continue, 5S, Kanban, PDCA!
--  **How to reach me:** You can reach me at **+212 643517586** (WhatsApp preferred) or email tahaait25@gmail.com.
+<h3 align="center">A passionate software developer from Morocco 🇲🇦</h3>
+<h3 align="center">I enjoy breaking complex systems down—then rebuilding them better.</h3>
 
----
+<br/>
 
-### 🧰 Tech Stack & Tools
+<div align="center">
+ 
+ 🔭 I’m currently studying **Industrial engineering**
+ 
+ 🌱 I’m currently learning **Advanced python, Supabase, AutoCAD**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-</p>
+💬 Ask me about ** Lean management, React, Kanban... or anything [here](https://github.com/PenglerTaha/PenglerTaha/issues)**
+
+⚡ My motto is if you want to win the lottery you have to make the money to buy a ticket.
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:tahaait25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/taha-aityaazza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://penglertaha.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,python,vscode,github,figma,tailwind,git,r,opencv" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,numpy" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/penglertaha/penglertaha/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
