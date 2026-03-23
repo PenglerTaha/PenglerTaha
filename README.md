@@ -11,13 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently studying **Industrial engineering**
+  I’m currently studying **Industrial engineering**
  
- 🌱 I’m currently learning **Advanced python, Supabase, AutoCAD**
+  I’m currently learning **Advanced python, Supabase, AutoCAD**
 
-💬 Ask me about ** Lean management, React, Kanban... or anything [here](https://github.com/PenglerTaha/PenglerTaha/issues)**
+ Ask me about ** Lean management, React, Kanban... or anything [here](https://github.com/PenglerTaha/PenglerTaha/issues) **
 
-⚡ My motto is if you want to win the lottery you have to make the money to buy a ticket.
+ My motto is if you want to win the lottery you have to make the money to buy a ticket.
 
  </div>
  
