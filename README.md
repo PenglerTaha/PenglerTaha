@@ -35,11 +35,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,python,vscode,github,figma,tailwind,git,r,opencv" />
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,numpy" /><br>
+    <img src="https://skillicons.dev/icons?i=chatgpt,gemini,claude,deepseek" />
 </div>
 
 <br/>
