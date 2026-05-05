@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pengler+Taha!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Morocco 🇲🇦</h3>
+<h3 align="center">A passionate engineering student from Morocco 🇲🇦</h3>
 <h3 align="center">I enjoy breaking complex systems down—then rebuilding them better.</h3>
 
 <br/>
